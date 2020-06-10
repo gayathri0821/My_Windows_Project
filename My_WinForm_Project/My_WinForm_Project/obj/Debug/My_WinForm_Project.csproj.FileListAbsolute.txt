@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\bin\Debug\My_WinForm_Project.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\bin\Debug\My_WinForm_Project.exe
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\bin\Debug\My_WinForm_Project.pdb
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.Apartment.resources
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.exe
+c:\users\dell\documents\visual studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\My_WinForm_Project\My_WinForm_Project\obj\Debug\My_WinForm_Project.Register.resources
